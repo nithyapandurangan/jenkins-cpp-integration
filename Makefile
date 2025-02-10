@@ -1,2 +1,2 @@
 all:
-    g++ -o program main.cpp
+    "C:/ProgramData/mingw64/mingw64/bin/g++.exe" -o program main.cpp
